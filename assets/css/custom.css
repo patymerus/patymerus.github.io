@@ -1,14 +1,16 @@
+/* Add your custom CSS here */
+body {}
 
-nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #3E3232}
+nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #431407 }
 
-header.theme-dark   { background-color:#3E3232}
+header.theme-dark   { background-color:#431407 }
 
-header.theme-dark  h1 { color: var(#A87C7C); }
+header.theme-dark  h1 { color: var(--sky-400); }
 
-section.theme-dark   { background-color: #503C3C}
+section.theme-dark   { background-color: #713f12 }
 
-footer.theme-dark   { background-color:#3E3232}
+footer.theme-dark   { background-color: #431407 }
+
+
 
 header .col-text h2, .col-1 > h3 { line-height: 1.8 }
-
-
